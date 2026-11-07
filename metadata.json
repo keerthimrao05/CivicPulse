@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse AI",
+  "description": "AI-powered smart civic issue detection, reporting, duplicate clustering, priority engine, and resolution platform for citizens and municipal authorities.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
